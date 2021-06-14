@@ -1,7 +1,7 @@
 # ecom
 image url https://imgur.com/a/PxJWtbc
 
-Front end for ecommerce book selling site made using react
+Backend for ecommerce book selling site made using node and mongodb database
 
 Front end link https://github.com/warr77/ecom-front
 
